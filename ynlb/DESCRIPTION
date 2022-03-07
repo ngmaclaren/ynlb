@@ -1,0 +1,9 @@
+Package: ynlb
+Type: Package
+Title: Data and functions for analysis of Mosuo data
+Version: 0.1
+Date: 2022-01-14
+Author: Neil MacLaren
+Maintainer: Neil MacLaren <neil.g.maclare@gmail.com>
+Description: Anonymized data and the functions to analyze it for the Mattison et al. component of the Market Transitions project. The primary purpose is to construct networks for further analysis with igraph or statnet.
+License: MIT

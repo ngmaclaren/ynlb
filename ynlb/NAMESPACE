@@ -1,0 +1,9 @@
+export(
+    "find_house",
+    "make_distance_network",
+    "make_ep_affinal_network",
+    "make_equipment_network",
+    "make_friendship_network",
+    "make_meals_network",
+    "make_sanguinal_network"
+)
